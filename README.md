@@ -32,17 +32,6 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/milly-%E2%99%A1?color=black" />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hemilly-pg.Hemilly-pg&left_color=purple&right_color=rebeccapurple"  />
-</div>      
-<br>
-<br>
-
-
-<div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hemilly-pg&theme=jolly"/>
   <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hemilly-pg&theme=jolly"/>
   <br>
@@ -83,7 +72,11 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-ff64da?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/h%C3%AAmilly-pereira-gon%C3%A7alves-2a422b388/)
   
 </div>
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hemilly-pg.Hemilly-pg&left_color=purple&right_color=rebeccapurple"  />
+</div>      
+<br>
+<br>
 <div align="center">
   <p align="center">
       <samp>
