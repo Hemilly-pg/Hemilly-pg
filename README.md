@@ -44,6 +44,8 @@
 </div>
 
 
+</div>
+
 <br>
 <br>
 
@@ -60,6 +62,20 @@
 
 <br>
 
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-ff64da?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:hpg1@aluno.ifnmg.edu.br)
+  [![Instagram](https://img.shields.io/badge/Instagram-ff64da?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/hemillypg/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-ff64da?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/h%C3%AAmilly-pereira-gon%C3%A7alves-2a422b388/)
+  
+</div>
 
 <div align="center">
   <p align="center">
