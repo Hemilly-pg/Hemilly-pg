@@ -1,5 +1,9 @@
-<div align="center" style="display: inline_block"><br>
-  <img align="right" alt="" height="200" src="./src/study.gif">
+<div style="text-align: center;">
+  <img alt="" height="200" src="/madokagif.gif" style="display: block; margin: 0 auto;">
+
+  <br>
+</div>
+<div align="center">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -7,7 +11,6 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  
 </div>
 
 <br>
@@ -109,3 +112,4 @@
 </div>
 
 ###
+  <img align="right" alt="" height="200" src="/madokagif.gif">
