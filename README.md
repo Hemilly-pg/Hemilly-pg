@@ -1,9 +1,8 @@
-<div style="text-align: center;">
-  <img alt="" height="100" src="/madokagif.gif" style="display: block; margin: 0 auto;">
-
-  <br>
+ <br>
 </div>
 <div align="center">
+    <img alt="" height="100" src="/madokagif.gif" style="display: block; margin: 0 auto;">
+
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
