@@ -1,3 +1,14 @@
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  
+</div>
+
 <br>
 
 <div align="center">
@@ -32,16 +43,6 @@
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemilly-pg&theme=jolly"/>
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  
-</div>
 
 <br>
 <br>
@@ -59,20 +60,6 @@
 
 <br>
 
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:hpg1@aluno.ifnmg.edu.br)
-  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/hemillypg/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/h%C3%AAmilly-pereira-gon%C3%A7alves-2a422b388/)
-  
-</div>
 
 <div align="center">
   <p align="center">
