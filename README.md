@@ -83,6 +83,8 @@
 
 <br>
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/Hemilly-pg/Hemilly-pg/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
