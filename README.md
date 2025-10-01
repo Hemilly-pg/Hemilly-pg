@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff79c6"/>
-
 <br>
 
 <div align="center">
@@ -97,5 +95,3 @@
 
 
 <br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
