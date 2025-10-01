@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img alt="" height="200" src="/madokagif.gif" style="display: block; margin: 0 auto;">
+  <img alt="" height="100" src="/madokagif.gif" style="display: block; margin: 0 auto;">
 
   <br>
 </div>
@@ -112,4 +112,3 @@
 </div>
 
 ###
-  <img align="right" alt="" height="200" src="/madokagif.gif">
