@@ -23,7 +23,7 @@
 
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&duration=4000&pause=500&color=FF79C6&center=true&width=435&lines=I+am+from+Brazil;I'm+a+student+of+ADS;Analysis+and+Systems+Development;I'm+also+a+Designer;Welcome!)](https://git.io/typing-svg)" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&duration=4000&pause=500&color=FF79C6&center=true&width=435&lines=I+am+from+Brazil;I'm+a+student+of+ADS;Analysis+and+Systems+Development;I'm+also+a+Designer;Welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
